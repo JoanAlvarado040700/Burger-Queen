@@ -1,5 +1,7 @@
 {
   "name": "Burger_Queen",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
